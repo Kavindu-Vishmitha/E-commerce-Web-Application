@@ -209,6 +209,15 @@ The application is designed for modern online retail businesses that require fle
 
 ---
 
+## 📝 License
+
+This project is intended solely for **academic and educational purposes**.
+
+Any form of **commercial use, distribution, or modification** for profit is **strictly prohibited** without **explicit written permission** from the original author.
+
+
+
+
 
 
 
