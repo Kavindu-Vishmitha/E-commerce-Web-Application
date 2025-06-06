@@ -413,7 +413,7 @@ require "connection.php";
                                             <span class="card-text text-primary">Rs. <?php echo $product_data["price"]; ?> .00</span><br />
 
                                             <?php
-                                            if ($product_data["qty"] > 0) {
+                                            if ($product_data["qty"] > 0){
                                             ?>
                                                 <span class="card-text text-warning fw-bold">In Stock</span></br>
                                                 <span class="caed-text text-success fw-bold"><?php echo $product_data["qty"]; ?> Items Available</span></br>
