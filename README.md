@@ -4,77 +4,69 @@ X-flax is a complete e-commerce web application designed to offer users a smooth
 
 ---
 
-## 📚 Table of Contents
+## 📘 Project Overview
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [User Module](#user-module)
-- [Admin Module](#admin-module)
-- [Installation](#installation)
-- [Screenshots](#screenshots)
-- [License](#license)
+**X-flax** is a dynamic and responsive web-based e-commerce platform developed using **PHP**, **MySQL**, **HTML/CSS**, and **JavaScript**, with payment integration via **PayHere**. The system supports user-side shopping features and a robust admin-side interface to manage products, users, and performance analytics.
+
+The application is designed for modern online retail businesses that require flexibility, security, and modular management of orders, customers, products, and sales.
+
+---
+
+### 🎯 Key Goals
+
+- Enable users to browse, search, and purchase products easily.
+- Provide administrators with tools to manage inventory and users.
+- Offer real-time engagement stats and sales data.
+- Deliver a role-based system for secure access and workflow handling.
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: PHP 8+
+- **Database**: MySQL 8.0+
+- **Payment Gateway**: PayHere
+- **Admin UI**: Custom-built
+- **IDE**: VS Code / PHPStorm
+- **Platform**: Web-based
 
 ---
 
 ## ✨ Features
 
-- User Registration, Login & Profile Management
-- Password Recovery
-- Basic & Advanced Product Search
-- Add to Cart & Buy Now Options
-- Wishlist and Engagement Tracking
-- Purchase History and Invoice Download
-- Contact Form
-- Admin Dashboard with Key Metrics
-- Product and User Management
-- Daily, Total, and Top-Selling Reports
+### 👤 User Features
+- 📝 Register and Login with secure authentication
+- 🔒 Password recovery mechanism
+- 🛍️ Browse products and view individual product details
+- 🔎 Basic & Advanced product search filters
+- 🛒 Add to Cart, Buy Now, and Checkout processes
+- ❤️ Wishlist management and engagement tracking
+- 📜 Purchase history and PDF invoice generation
+- ✉️ Contact form to reach out to support
+- 🔐 Secure logout and session management
+
+### 🛡️ Admin Features
+- 🔐 Admin Login with access control
+- 📊 Dashboard displaying:
+  - Today’s Sales
+  - Daily and Total Earnings
+  - Most Sold Items
+  - Top Customers
+  - Wishlist Engagement Stats
+- 🧑‍💼 Manage Users (view, update, delete)
+- 📦 Manage Products (add, update, remove)
+- 📤 Upload Profile Picture
+- 🔎 View purchase logs and wishlist activity
+- 📈 Real-time engagement monitoring
 
 ---
 
-## 🛠️ Technologies Used
+## 👥 User Roles
 
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: PHP  
-- **Database**: MySQL  
-- **Payment Integration**: PayHere  
-- **Admin UI**: Custom / AdminLTE
+- **Customer**: Can browse, purchase, and manage their account
+- **Admin**: Has full access to dashboard, product/user management, and analytics
 
 ---
 
-## 👤 User Module
-
-| Page                    | Function                                 |
-|------------------------|------------------------------------------|
-| Home                   | View featured and latest products        |
-| Login / Register       | User authentication system               |
-| Forgot Password        | Password reset via email/SMS             |
-| My Account             | Update personal information              |
-| Basic Search           | Quick product lookup                     |
-| Advanced Search        | Filter by category, price, keyword       |
-| Single Product View    | View product details and purchase option |
-| Buy Now Process        | Direct product checkout                  |
-| Cart / Cart Process    | Add, remove, and purchase multiple items |
-| Wishlist               | Save favorite products                   |
-| Purchase History       | Track all past orders                    |
-| Invoice                | Download PDF invoices                    |
-| Contact                | Send messages to store admin             |
-| Logout                 | End user session                         |
-
----
-
-## 🛡️ Admin Module
-
-| Feature                   | Description                             |
-|---------------------------|-----------------------------------------|
-| Admin Login / Logout      | Secure authentication                   |
-| Dashboard                 | View earnings, sales, and activity      |
-| Today/Daily/Total Earnings| View revenue metrics                    |
-| Most Sold Items           | Track top-selling products              |
-| Customer Insights         | View top customers and engagement       |
-| Manage Products           | Add, update, delete products            |
-| Manage Users              | View and manage all registered users    |
-| Product Add/Update Pages  | Forms for managing product inventory    |
-| Profile Picture Upload    | Set or update admin photo               |
-
-
- 
+## 🖼️ Project Screenshots
