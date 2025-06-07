@@ -25,12 +25,12 @@ if (isset($_GET["e"])) {
         $mail->IsSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = '2003kavinduvishmitha@gmail.com';
-        $mail->Password = 'yjpklqyrcpcsteui';
+        $mail->Username = '*********************';
+        $mail->Password = '******************';
         $mail->SMTPSecure = 'ssl';
         $mail->Port = 465;
-        $mail->setFrom('2003kavinduvishmitha@gmail.com', 'Reset Password');
-        $mail->addReplyTo('2003kavinduvishmitha@gmail.com', 'Reset Password');
+        $mail->setFrom('********************', 'Reset Password');
+        $mail->addReplyTo('******************', 'Reset Password');
         $mail->addAddress($email);
         $mail->isHTML(true);
         $mail->Subject = 'X-flax Forgot Password Verification Code ';
