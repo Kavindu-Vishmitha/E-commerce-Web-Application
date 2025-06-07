@@ -70,3 +70,190 @@ The application is designed for modern online retail businesses that require fle
 ---
 
 ## 🖼️ Project Screenshots
+
+### 👤 Customer Interface
+
+#### 🏠 Home Page
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/index.png)
+
+---
+
+#### 🔐 Sign In / Sign Up
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/signIn.png)
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/signUp.png)
+
+---
+
+#### 🔑 Forgotten Password
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/forgottenPassword.png)
+
+---
+
+#### ✅ Verification Code
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/verificationCode.png)
+
+---
+
+#### 👤 User Account
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/account.png)
+
+---
+
+#### 🔎 Advanced Search
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/advancedSearch.png)
+
+---
+
+#### 🛒 Cart
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/cart.png)
+
+---
+
+#### 💳 Payment (Buy Now)
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/payment.png)
+
+---
+
+#### 📦 Single Product View
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/singleProductView.png)
+
+---
+
+#### 💼 Purchased History
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/purchasedHistory.png)
+
+---
+
+#### 🧾 Invoice
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/invoice.png)
+
+---
+
+#### 💌 Contact Page
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/contact.png)
+
+---
+
+#### ❤️ Wishlist
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/whishlist.png)
+
+---
+
+### 🛡️ Admin Interface
+
+#### 🔐 Admin Login
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/adminSignIn.png)
+
+---
+
+#### 📊 Dashboard
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/adminDashboard.png)
+
+---
+
+#### 👥 Manage Users
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/manageUsers.png)
+
+---
+
+#### ➕ Add Product
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/productAdding.png)
+
+---
+
+#### 📦 Manage Products
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/productManage.png)
+
+---
+
+#### ✏️ Update Product
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/productUpdate.png)
+
+---
+
+#### 📈 Purchase History Report
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/purchasedHistoryReport.png)
+
+---
+
+#### 📊 User Report
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/userReport.png)
+
+---
+
+#### ❤️ Wishlist Report
+
+![image alt](https://github.com/Kavindu-Vishmitha/E-commerce-Web-Application/blob/660d0213b898593187717a0771b36261fd35eddd/screenshot/wishlistReport.png)
+
+---
+
+## 📝 License
+
+This project is intended solely for **academic and educational purposes**.
+
+Any form of **commercial use, distribution, or modification** for profit is **strictly prohibited** without **explicit written permission** from the original author.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
